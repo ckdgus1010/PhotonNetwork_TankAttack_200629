@@ -1,0 +1,340 @@
+    1  ls
+    2  ls -al
+    3  whoami
+    4  clear
+    5  pwd
+    6  cd /d
+    7  ls
+    8  cd /c
+    9  ls
+   10  cd Documents
+   11  ls
+   12  pwd
+   13  ls
+   14  cd Github
+   15  ls
+   16  cd ~
+   17  ls
+   18  cd /
+   19  ls
+   20  cd ~
+   21  ls
+   22  cd My\ Documents/
+   23  ls
+   24  cd GitHub/
+   25  ls
+   26  cd Class_01_Git_Tutorial
+   27  clear
+   28  exit
+   29  ~pwd
+   30  pwd
+   31  ~cd /c
+   32  cd GitHub
+   33  ls
+   34  ~ ls
+   35  cd My\ Documents/
+   36  ls
+   37  cd GitHub/
+   38  pwd
+   39  GitHub pwd
+   40  GitHub git clone https://github.com/ckdgus1010/Class_02_Git_Test.git
+   41  ls -al
+   42  git clone https://github.com/ckdgus1010/Class_02_Git_Test.git
+   43  ls
+   44  ll
+   45  ls
+   46  ls -al
+   47  cd Class_02_Git_Test
+   48  pwd
+   49  ls -al
+   50  pwd
+   51  echo "AAAA"
+   52  echo "My First README"
+   53  echo "My First README" >> README.md
+   54  ls
+   55  git add README.md 
+   56  git commit -m "First README File Create"
+   57  git push -u origin master
+   58  clear
+   59  ls
+   60  cd /
+   61  ls
+   62  cd ~
+   63  ls
+   64  cd /c
+   65  ls
+   66  cd /Users
+   67  ls
+   68  cd /Users
+   69  ls
+   70  cd /Users
+   71  cd /c
+   72  ls
+   73  cd /c/Users
+   74  ls
+   75  /
+   76  ls
+   77  ~
+   78  pwd
+   79  ls -al
+   80  pwd
+   81  cd /c
+   82  ls
+   83  cd /
+   84  ls
+   85  cd /d
+   86  ls
+   87  cd /c
+   88  ls
+   89  cd /Users
+   90  ls
+   91  cd Users
+   92  ls
+   93  cd user
+   94  ls
+   95  cd My\ Documents/
+   96  ls
+   97  cd GitHub
+   98  ls
+   99  cd ARCore_PersonalProject_200618
+  100  ls
+  101  ls -al
+  102  git init
+  103  git remote add https://github.com/ckdgus1010/ARCore_PersonalProject_200618.git
+  104  git remote add origin https://github.com/ckdgus1010/ARCore_PersonalProject_200618.git
+  105  git pull origin master
+  106  ls -al
+  107  clear
+  108  history
+  109  clear
+  110  pwd
+  111  git lfs install
+  112  git lfs track "*.apk"
+  113  git lfs track "*.zip"
+  114  git lfs track "*.psd"
+  115  git lfs track "*.pdf"
+  116  git lfs track "*.a"
+  117  git lfs track "*.unitypackage"
+  118  git lfs track "*.cubemap"
+  119  git lfs track "*.bmp"
+  120  git lfs track "*.tga"
+  121  git lfs track "*.tiff"
+  122  git lfs track "*.jpg"
+  123  git lfs track "*.jpeg"
+  124  ls -al
+  125  cat .gitattributes 
+  126  git add .gitattributes 
+  127  git commit -m "Add .gitattribute"
+  128  git push -u origin master
+  129  ls
+  130  git add . 
+  131  git commit -m "Project Upload"
+  132  git push 
+  133  exit
+  134  /d
+  135  ls
+  136  pwd
+  137  cd pwd
+  138  pwd
+  139  cd Documents
+  140  ls
+  141  cd GitHub
+  142  ls
+  143  pwd
+  144  cd VivePro_Tutorial_200625/
+  145  clear
+  146  git init
+  147  ls -al
+  148  git remote add origin https://github.com/ckdgus1010/VivePro_Tutorial_200625.git
+  149  git pull origin master
+  150  ls
+  151  git lfs install
+  152  git lfs track "*.zip"
+  153  git lfs track "*.dll"
+  154  git lfs track "*.psd"
+  155  git lfs track "*.pdf"
+  156  git lfs track "*.a"
+  157  git lfs track "*.tiff"
+  158  ls -al
+  159  git add .gitattributes 
+  160  git commit -m "Add Gitattributes"
+  161  git push -u origin master
+  162  ls
+  163  ls -al
+  164  git add .
+  165  git push -u origin master
+  166  git commit -m "Add Project files"
+  167  git push -u origin master
+  168  history
+  169  history >> command.txt
+  170  cat command.txt
+  171  pwd
+  172  pwd
+  173  cd/
+  174  cd /
+  175  pwd
+  176  cd /c
+  177  ls
+  178  cd Users
+  179  ls
+  180  cd user
+  181  ls
+  182  cd Documents
+  183  ls
+  184  cd GitHub
+  185  ls
+  186  cd Temp_200625
+  187  ls
+  188  cd /c/Users/user/Documents/GitHub/Temp_200625
+  189  pwd
+  190  git remote add origin https://github.com/ckdgus1010/temp.git
+  191  ls
+  192  git pull origin master
+  193  pwd
+  194  git status
+  195  cd ..
+  196  pwd
+  197  ls
+  198  cd Temp_200625
+  199  git remote add origin https://github.com/ckdgus1010/temp.git
+  200  ls
+  201  pwd
+  202  cd My Documents/
+  203  pwd
+  204  cd \My Documents
+  205  ls -al
+  206  ls
+  207  cd Documents/
+  208  pwd
+  209  ls
+  210  cd GitHub
+  211  pwd
+  212  ls
+  213  clear
+  214  cd /
+  215  pwd
+  216  cd c
+  217  pwd
+  218  ls
+  219  cd Users
+  220  pwd
+  221  ls
+  222  cd user
+  223  pwd
+  224  ls
+  225  cd Documents
+  226  pwd
+  227  ls
+  228  cd GitHub
+  229  pwd
+  230  ls
+  231  cd OculusQuest_Tutorial_200629/
+  232  pwd
+  233  ls
+  234  git init
+  235  ls
+  236  ls -al
+  237  git status
+  238  history
+  239  clear
+  240  ls
+  241  ls -al
+  242  history
+  243  clear
+  244  pwd
+  245  ls -al
+  246  git remote add origin   141  cd GitHub
+  247    142  ls
+  248    143  pwd
+  249    144  cd VivePro_Tutorial_200625/
+  250    145  clear
+  251    146  git init
+  252    147  ls -al
+  253    148  git remote add origin https://github.com/ckdgus1010/VivePro_Tutorial_200625.git
+  254    149  git pull origin master
+  255    150  ls
+  256    151  git lfs install
+  257    152  git lfs track "*.zip"
+  258    153  git lfs track "*.dll"
+  259    154  git lfs track "*.psd"
+  260    155  git lfs track "*.pdf"
+  261    156  git lfs track "*.a"
+  262    157  git lfs track "*.tiff"
+  263    158  ls -al
+  264    159  git add .gitattributes
+  265    160  git commit -m "Add Gitattributes"
+  266    161  git push -u origin master
+  267    162  ls
+  268    163  ls -al
+  269    164  git add .
+  270    165  git push -u origin master
+  271    166  git commit -m "Add Project files"
+  272    167  git push -u origin master
+  273    168  history
+  274    169  history >> command.txt
+  275    170  cat command.txt
+  276  clear
+  277  pwd
+  278  ls -al
+  279  ls -al
+  280  git remote add origin https://github.com/ckdgus1010/OculusQuest_Tutorial_200629.git
+  281  git pull origin master
+  282  ls
+  283  ls -al
+  284  git lfs install
+  285  git lfs track "*.zip"
+  286  git lfs track "*.dll"
+  287  git lfs track "*.psd"
+  288  git lfs track "*.pdf"
+  289  git lfs trakc "*.a"
+  290  git lfs track "*.a"
+  291  git lfs track "*.tiff"
+  292  ls -al
+  293  git add .gitattributes
+  294  git commit -m "Add GitAttributes"
+  295  git push -u origin master
+  296  ls
+  297  ls -al
+  298  git add .
+  299  exit
+  300  pwd
+  301  ls
+  302  cd Documents/
+  303  ls
+  304  cd GitHub
+  305  ls
+  306  cd OculusQuest_Tutorial_200629/
+  307  ls
+  308  ls -al
+  309  git lfs install
+  310  git lfs track "*.zip"
+  311  git lfs track "*.a"
+  312  git push origin master
+  313  git status
+  314  git add .
+  315  git commit -m "추가 업로드"
+  316  git push origin master
+  317  git status
+  318  git commit -m "object 잡고 던지기"
+  319  git push origin master
+  320  exit
+  321  pwd
+  322  ls
+  323  cd Documents/
+  324  ls
+  325  cd GitHub
+  326  ls
+  327  cd PhotonNetwork_TankAttack_200629/
+  328  ls -al
+  329  git init
+  330  git status
+  331  git add .
+  332  git commit -m "PhotonNetwork_TankAttack"
+  333  git remote add origin https://github.com/ckdgus1010/PhotonNetwork_TankAttack_200629.git
+  334  git push origin master
+  335  clear
+  336  pwd
+  337  ls -al
+  338  clear
+  339  history
+  340  history >> command.txt
